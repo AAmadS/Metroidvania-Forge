@@ -1,9 +1,10 @@
 [gd_scene format=3 uid="uid://8lidg4hqe43w"]
 
-[ext_resource type="Texture2D" uid="uid://dd860n3iw55m1" path="res://icon.svg" id="1_rupst"]
+[ext_resource type="Texture2D" uid="uid://hmu5e203fd6b" path="res://cat_motion.png" id="1_rupst"]
 
 [node name="Node2D" type="Node2D" unique_id=1113516248]
 
-[node name="Icon" type="Sprite2D" parent="." unique_id=1731685762]
-position = Vector2(232, 125)
+[node name="CatMotion" type="Sprite2D" parent="." unique_id=1515541566]
+position = Vector2(237.00003, 135.00002)
+scale = Vector2(0.23142993, 0.23142993)
 texture = ExtResource("1_rupst")
